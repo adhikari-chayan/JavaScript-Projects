@@ -1,0 +1,1 @@
+Promisification refers to a transformation. It is the conversion of a callback-accepting function into a promise-returning function. Promisification aids in dealing with callback-based APIs while maintaining code consistency.
